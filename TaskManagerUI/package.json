@@ -11,5 +11,7 @@
   "description": "",
   "devDependencies": {
     "eslint": "^9.39.1"
-  }
+  },
+  "homepage": "https://varunmahajan292.github.io/React_API_UI_EF_TaskManager"
+
 }
